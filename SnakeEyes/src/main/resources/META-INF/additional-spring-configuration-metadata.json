@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "random-number-format",
+    "type": "java.lang.String",
+    "description": "A description for 'random-number-format'"
+  },
+  {
+    "name": "snake-eye-multiplier",
+    "type": "java.lang.String",
+    "description": "A description for 'snake-eye-multiplier'"
+  },
+  {
+    "name": "pair-multiplier",
+    "type": "java.lang.String",
+    "description": "A description for 'pair-multiplier'"
+  },
+  {
+    "name": "snake-eye-payout-name",
+    "type": "java.lang.String",
+    "description": "A description for 'snake-eye-payout-name'"
+  },
+  {
+    "name": "pair-payout-name",
+    "type": "java.lang.String",
+    "description": "A description for 'pair-payout-name'"
+  },
+  {
+    "name": "no-payout-name",
+    "type": "java.lang.String",
+    "description": "A description for 'no-payout-name'"
+  },
+  {
+    "name": "player-balance",
+    "type": "java.lang.String",
+    "description": "A description for 'player-balance'"
+  }
+]}
